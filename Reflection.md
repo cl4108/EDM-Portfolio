@@ -6,11 +6,11 @@ Here is the list of my files and links:
 
 [ACA 1](https://github.com/cl4108/EDM-Portfolio/blob/main/ACA%201.ipynb)
 
-[ACA 2](https://github.com/cl4108/EDM-Portfolio/blob/main/ACA%203.ipynb)
+[ACA 2](https://github.com/cl4108/EDM-Portfolio/blob/main/ACA%202.ipynb)
 
 [ACA 3](https://github.com/cl4108/EDM-Portfolio/blob/main/ACA%203.ipynb)
 
-[ACA 4]
+[ACA 4](https://github.com/cl4108/EDM-Portfolio/blob/main/ACA%204.ipynb)
 
 
 It is my second year of study at TC Columbia University, I am taking this HUDK 4050 course to further enhance my data mining skills. After taking the introduction courses of HUDK 4054 and 5042, I learned what is data mining and data management, but did not really practice coding. I always wanted to learn more about the actual coding process when talking about educational data mining. Before coming to TC, I was a Quantitative Economics Major student in UC Irvine, I have done tons of research and coding on economics and markets data, however, the educational data mining is totally different from doing business data analysis, I do not know how can our analysis help education in specific areas, and what analysis strategies should I use for different topics and dataset is another big problem I have to solve by taking this course. My personal learning goal changed when I started doing the EDM project with my team, my focus of the course before was just to master the coding skills, but this project has really brought me back to think what is the actual goal and needs for our coding and analysis, if we could not think of a problem or need for this analysis, all the coding and analysis will worth nothing, especially for educational purposes, what can our data analysis help in terms of actual implication and actual world practices is very important. 
