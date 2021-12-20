@@ -8,7 +8,7 @@ Here is the list of my files and links:
 
 [ACA 2](https://github.com/cl4108/EDM-Portfolio/blob/main/ACA%203.ipynb)
 
-[ACA 3](
+[ACA 3](https://github.com/cl4108/EDM-Portfolio/blob/main/ACA%203.ipynb)
 
 [ACA 4]
 
