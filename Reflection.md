@@ -3,9 +3,13 @@ Thanks to HUDK 4050, I have done lots coding exercises, and I can't wait to show
 Here is the list of my files and links:
 
 [ICE File]https://github.com/cl4108/EDM-Portfolio/tree/main/ICE%20File
+
 [ACA 1]
+
 [ACA 2]
+
 [ACA 3]
+
 [ACA 4]
 
 
