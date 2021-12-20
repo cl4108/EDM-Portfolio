@@ -2,13 +2,13 @@
 Thanks to HUDK 4050, I have done lots coding exercises, and I can't wait to show everyone in this space as I have attached my coding exercises files in this portfolio.
 Here is the list of my files and links:
 
-[ICE File]https://github.com/cl4108/EDM-Portfolio/tree/main/ICE%20File
+[ICE File](https://github.com/cl4108/EDM-Portfolio/tree/main/ICE%20File)
 
-[ACA 1]https://github.com/cl4108/EDM-Portfolio/blob/main/ACA%201.ipynb
+[ACA 1](https://github.com/cl4108/EDM-Portfolio/blob/main/ACA%201.ipynb)
 
-[ACA 2]
+[ACA 2](https://github.com/cl4108/EDM-Portfolio/blob/main/ACA%203.ipynb)
 
-[ACA 3]
+[ACA 3](
 
 [ACA 4]
 
