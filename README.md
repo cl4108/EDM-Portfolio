@@ -8,7 +8,7 @@
 
 
 
-# EDM-Portfolio Refelectioon 
+
 Thanks to HUDK 4050, I have done lots coding exercises, and I can't wait to show everyone in this space as I have attached my coding exercises files in this portfolio.
 Here is the list of my files and links:
 
