@@ -9,7 +9,7 @@
 
 
 
-Thanks to HUDK 4050, I have done lots coding exercises, and I can't wait to show everyone in this space as I have attached my coding exercises files in this portfolio.
+Thanks to HUDK 4050, I have done lots coding exercises, and I can't wait to show everyone in this space as I have attached my coding exercise files in this portfolio.
 Here is the list of my files and links:
 
 [ICE File](https://github.com/cl4108/EDM-Portfolio/tree/main/ICE%20File)
